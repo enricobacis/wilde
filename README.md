@@ -1,7 +1,7 @@
 wilde
 ===========
 
-Sometimes citing the program committee members pays off !
+Sometimes citing the program committee members pays off, sometimes not !
 
 installation
 -----------
